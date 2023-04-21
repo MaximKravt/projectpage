@@ -1,0 +1,27 @@
+{
+  "name": "barbershop_app",
+  "version": "1.0.0",
+  "description": "barbershopApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaximKrauchanka",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.28.3",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "postcss": "^8.4.21",
+    "sass": "^1.59.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "bootstrap-icons": "^1.10.3",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
